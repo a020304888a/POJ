@@ -8,6 +8,7 @@ int main()
 {
 	int a, b;
 	scanf("%d %d", &a, &b);
+	//test
 	printf("%d", a + b);
 	return 0;
 }
