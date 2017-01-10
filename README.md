@@ -7,6 +7,10 @@ POJ 1000 : A sample of POJ.
 **sudo** bash build.sh
 ### clean
 sudo bash build.sh -c
-> library location:/usr/local/lib/
+> library location:/usr/local/lib/ <br />
 > key file location : /home/uldpm/secure_files
+
+<p>Hello andy, maybe aaron.
+This is just a test of markdown document. </p>
+
 
